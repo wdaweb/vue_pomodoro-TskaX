@@ -32,4 +32,7 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub](https://github.com/)
+- [GitHub](https://github.com/TskaX/vuetify-pomodoro)
+使用 particles.vue 套件
+版面簡易修改
+部分小功能新增
